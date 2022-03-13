@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on payments industry.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doordiey&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doordiey&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **doordiey/doordiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
